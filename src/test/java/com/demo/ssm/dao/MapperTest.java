@@ -18,5 +18,6 @@ public class MapperTest {
     @Test
     public void testCRUD() {
         employeeMapper.insert(new Employee(null, "张三", "m", "123@qq.com", 1));
+        System.out.println("success");
     }
 }
