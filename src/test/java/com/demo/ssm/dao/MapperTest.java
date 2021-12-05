@@ -22,5 +22,6 @@ public class MapperTest {
         System.out.println("success2");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("pull test");
     }
 }
